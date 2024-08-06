@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+.grayfon{
+    background-color: rgb(61, 61, 61);
+    padding: 100px;
+}
+.knopki{
+    text-align: center;
+    margin-top: -100px;
+}
+.text{
+    color: white;
+    background-color: black;
+    padding: 10px 20px;
+    border: 2px solid white;
+    border-radius: 10px;
+    font-size: 25px;
+}
+.ssilka{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    font-size: 25px;
+    border-radius: 10px;
+    border:3px solid white;
+}
+.ssilki{
+    text-align: center;
+    margin-top: 100px;
+}
