@@ -6,7 +6,11 @@ body{
     border-radius: 10px;
     padding: 100px;
     border: 3px solid rgb(255, 255, 255);
+    width:100%;
 } 
+.fon2{
+    text-align:center;
+}
 .bio{
     text-align: center;
     margin-top: -95px;
